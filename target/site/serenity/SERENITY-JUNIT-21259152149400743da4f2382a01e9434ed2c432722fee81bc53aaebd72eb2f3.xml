@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Testing the assessment API" skipped="0" tests="15" time="12.46" timestamp="2018-08-24 09:43:42"><testcase name="Checking API hit"/><testcase name="Validation of response"/><testcase name="Validation of headers"/></testsuite>

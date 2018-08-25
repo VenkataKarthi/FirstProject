@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Testing the Survey trigger API" skipped="0" tests="6" time="10.2" timestamp="2018-08-25 11:08:12"><testcase name="Checking Survey API hit"/><testcase name="Validation of response"/><testcase name="Validation of headers"/></testsuite>
