@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Testing the recruitment module of recruitment API" skipped="0" tests="2" time="43.67" timestamp="2018-08-28 06:31:32"><testcase name="Login to peopleHum as a valid recruiter"/><testcase name="Uploading a resume as a recruiter"/></testsuite>
